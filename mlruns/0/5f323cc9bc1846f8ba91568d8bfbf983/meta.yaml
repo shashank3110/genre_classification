@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/5f323cc9bc1846f8ba91568d8bfbf983/artifacts
+end_time: 1669040849779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f323cc9bc1846f8ba91568d8bfbf983
+run_name: fearless-sloth-737
+run_uuid: 5f323cc9bc1846f8ba91568d8bfbf983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040775394
+status: 3
+tags: []
+user_id: shashanks

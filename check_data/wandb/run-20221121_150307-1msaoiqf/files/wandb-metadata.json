@@ -1,0 +1,66 @@
+{
+    "os": "Linux-4.15.0-169-generic-x86_64-with-glibc2.27",
+    "python": "3.9.0",
+    "heartbeatAt": "2022-11-21T14:03:08.558349",
+    "startedAt": "2022-11-21T14:03:07.305854",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/data_train.csv:latest",
+        "--sample_artifact",
+        "exercise_14/data_test.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/home/shashanks/.mlflow/envs/mlflow-f0d686883a7b5444414341cd2398874d3f27f39e/bin/pytest",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "shashank311095@gmail.com",
+    "root": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "shashanks-Lenovo-ideapad-520-15IKB",
+    "username": "shashanks",
+    "executable": "/home/shashanks/.mlflow/envs/mlflow-f0d686883a7b5444414341cd2398874d3f27f39e/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3078.6182499999995,
+        "min": 400.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3090.85,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3035.774,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3088.675,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3099.174,
+            "min": 400.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "total": 107.15750503540039,
+        "used": 94.93706512451172
+    },
+    "memory": {
+        "total": 7.577610015869141
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/ba7845520e614b6a85a1cc6119513c24/artifacts
+end_time: 1669035534043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba7845520e614b6a85a1cc6119513c24
+run_name: bedecked-gull-166
+run_uuid: ba7845520e614b6a85a1cc6119513c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669035448609
+status: 4
+tags: []
+user_id: shashanks

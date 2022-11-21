@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/b85b66caa47d4b7495f4aae0f9990969/artifacts
+end_time: 1669036447885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b85b66caa47d4b7495f4aae0f9990969
+run_name: popular-asp-348
+run_uuid: b85b66caa47d4b7495f4aae0f9990969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669036342584
+status: 4
+tags: []
+user_id: shashanks

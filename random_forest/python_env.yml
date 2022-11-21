@@ -1,0 +1,15 @@
+python: "3.9.0"
+
+build_dependencies:
+  - pip==22.3.1
+
+dependencies:
+  - requests==2.24.0
+  - wandb==0.13.5
+  - pandas==1.2.3
+  - scikit-learn==0.24.1
+  - matplotlib==3.2.2
+  - plotly==4.4.1
+  - pillow==8.1.2
+  - omegaconf==2.0.6
+  - mlflow

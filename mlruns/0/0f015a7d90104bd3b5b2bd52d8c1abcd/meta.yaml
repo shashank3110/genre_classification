@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/0f015a7d90104bd3b5b2bd52d8c1abcd/artifacts
+end_time: 1669039681627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f015a7d90104bd3b5b2bd52d8c1abcd
+run_name: placid-grouse-565
+run_uuid: 0f015a7d90104bd3b5b2bd52d8c1abcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669039657608
+status: 3
+tags: []
+user_id: shashanks

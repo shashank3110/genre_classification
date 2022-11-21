@@ -1,0 +1,70 @@
+{
+    "os": "Linux-4.15.0-169-generic-x86_64-with-glibc2.27",
+    "python": "3.9.0",
+    "heartbeatAt": "2022-11-21T14:28:23.354845",
+    "startedAt": "2022-11-21T14:28:22.134486",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "genre_classification_prod/data_train.csv:latest",
+        "--model_config",
+        "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/genre_classification/outputs/2022-11-21/15-24-24/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/genre_classification/random_forest/run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/shashank3110/genre_classification.git",
+        "commit": "2bdcdc42fd76d7f577de83b431e0bf1855d28a95"
+    },
+    "email": "shashank311095@gmail.com",
+    "root": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/genre_classification",
+    "host": "shashanks-Lenovo-ideapad-520-15IKB",
+    "username": "shashanks",
+    "executable": "/home/shashanks/.mlflow/envs/mlflow-4e247f14f50bb74add61006e21747c2fd3b0769e/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2881.98025,
+        "min": 400.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2727.491,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2924.981,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2923.405,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2952.044,
+            "min": 400.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "total": 107.15750503540039,
+        "used": 95.7696533203125
+    },
+    "memory": {
+        "total": 7.577610015869141
+    }
+}

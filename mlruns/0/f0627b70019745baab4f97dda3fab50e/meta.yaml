@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/f0627b70019745baab4f97dda3fab50e/artifacts
+end_time: 1669040224154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0627b70019745baab4f97dda3fab50e
+run_name: invincible-gnu-17
+run_uuid: f0627b70019745baab4f97dda3fab50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040198377
+status: 3
+tags: []
+user_id: shashanks

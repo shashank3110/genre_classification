@@ -1,0 +1,70 @@
+{
+    "os": "Linux-4.15.0-169-generic-x86_64-with-glibc2.27",
+    "python": "3.9.0",
+    "heartbeatAt": "2022-11-21T14:08:28.962242",
+    "startedAt": "2022-11-21T14:08:27.624441",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "exercise_14/data_train.csv:latest",
+        "--model_config",
+        "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/outputs/2022-11-21/15-06-07/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/random_forest/run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "shashank311095@gmail.com",
+    "root": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "shashanks-Lenovo-ideapad-520-15IKB",
+    "username": "shashanks",
+    "executable": "/home/shashanks/.mlflow/envs/mlflow-4e247f14f50bb74add61006e21747c2fd3b0769e/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3068.29425,
+        "min": 400.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3100.013,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2973.181,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3100.008,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3099.975,
+            "min": 400.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "total": 107.15750503540039,
+        "used": 94.93504333496094
+    },
+    "memory": {
+        "total": 7.577610015869141
+    }
+}

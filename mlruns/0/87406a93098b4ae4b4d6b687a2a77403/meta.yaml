@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/87406a93098b4ae4b4d6b687a2a77403/artifacts
+end_time: 1669041073727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87406a93098b4ae4b4d6b687a2a77403
+run_name: merciful-lark-886
+run_uuid: 87406a93098b4ae4b4d6b687a2a77403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040634041
+status: 3
+tags: []
+user_id: shashanks

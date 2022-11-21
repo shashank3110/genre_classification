@@ -1,0 +1,62 @@
+{
+    "os": "Linux-4.15.0-169-generic-x86_64-with-glibc2.27",
+    "python": "3.9.0",
+    "heartbeatAt": "2022-11-21T14:30:54.694713",
+    "startedAt": "2022-11-21T14:30:53.230826",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "genre_classification_prod/model_export:latest",
+        "--test_data",
+        "genre_classification_prod/data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/genre_classification/evaluate/run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/shashank3110/genre_classification.git",
+        "commit": "2bdcdc42fd76d7f577de83b431e0bf1855d28a95"
+    },
+    "email": "shashank311095@gmail.com",
+    "root": "/media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/genre_classification",
+    "host": "shashanks-Lenovo-ideapad-520-15IKB",
+    "username": "shashanks",
+    "executable": "/home/shashanks/.mlflow/envs/mlflow-398a23cf943f8d493e4af07d633cbb5bba290dd9/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3098.61625,
+        "min": 400.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3096.815,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3099.743,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3098.027,
+            "min": 400.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3099.88,
+            "min": 400.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "total": 107.15750503540039,
+        "used": 95.77433395385742
+    },
+    "memory": {
+        "total": 7.577610015869141
+    }
+}

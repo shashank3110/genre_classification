@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/3d1b215063bb46e99bfd9e19400e9be9/artifacts
+end_time: 1669036017878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d1b215063bb46e99bfd9e19400e9be9
+run_name: omniscient-mink-999
+run_uuid: 3d1b215063bb46e99bfd9e19400e9be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669035928102
+status: 4
+tags: []
+user_id: shashanks

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/373e790f3f584449ac6a4f32d913bb72/artifacts
+end_time: 1669040709245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 373e790f3f584449ac6a4f32d913bb72
+run_name: luxuriant-skunk-601
+run_uuid: 373e790f3f584449ac6a4f32d913bb72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040665622
+status: 3
+tags: []
+user_id: shashanks

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/shashanks/Windows/Users/Shashank_S/linux_partition/git_code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/a97fcd2ec38e4c97a39e5bd11f23340c/artifacts
+end_time: 1669040102922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a97fcd2ec38e4c97a39e5bd11f23340c
+run_name: unleashed-calf-190
+run_uuid: a97fcd2ec38e4c97a39e5bd11f23340c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040089865
+status: 4
+tags: []
+user_id: shashanks

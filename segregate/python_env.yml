@@ -1,0 +1,10 @@
+python: "3.9.0"
+
+build_dependencies:
+  - pip==22.3.1
+
+dependencies:
+  - requests==2.24.0
+  - wandb==0.13.5
+  - pandas
+  - scikit-learn
